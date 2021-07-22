@@ -1,0 +1,123 @@
+{{sidebar with collapsible lists
+|name = Saivism
+|pretitle = Part of [[:Category:Shaivism|a series]] on 
+|title = [[Shaivism]]
+|titlestyle = background-color: #FFC569; padding:0.25em;
+|image = [[File:SaivismFlag.svg|150px]] 
+
+| listtitlestyle = border-top:#FFC569 1px solid; border-bottom:#FFC569 1px solid;
+|listclass = hlist
+| liststyle = padding-top:0;
+|expanded = {{{expanded|{{{1|}}}}}}
+
+|list1title= Deities
+|list1=
+'''[[Parameshwara (god)|Paramashiva]]'''<br/>''(Supreme being)''
+;[[Shiva]] 
+*[[Sadasiva]]
+*[[Bhairava]]
+*[[Rudra]]
+*[[Virabhadra]]
+; [[Shakti]]
+* [[Parvati]]
+* [[Sati (Hindu goddess)|Sati]]
+* [[Durga]]
+* [[Kali]]
+<hr>
+*[[Ganesha]] 
+*[[Kartikeya]] 
+*[[Sastha]]
+*[[Maheshwara murtams|Shiva forms]] 
+*[[List of Hindu deities|Others]]  
+
+|list2title= Scriptures and texts
+|list2=
+*[[Vedas]]
+*[[Shaiva Upanishads|Upanishads]] ([[Shvetashvatara Upanishad|Svetasvatara]]) <br />
+*[[Āgama (Hinduism)|Agamas]] and [[Tantras]]
+*[[Shiva Sutras of Vasugupta|Shivasutras]]
+*[[Tirumurai]]
+*[[Vachana sahitya|Vachanas]]
+
+|list3title= Philosophy
+|list3= 
+:Three Components
+*[[Pashupati|Pati]]
+*[[Ātman (Hinduism)|Pashu]]
+*[[Pasam (Saivism)|Pasam]]
+:Three bondages
+*[[Anava]]
+*[[Karma]]
+*[[Maya (illusion)|Maya]] <br/>
+*[[Tattva (Shaivism)|36 Tattvas]]
+*[[Yoga]]
+* [[Satkaryavada]]
+* [[Abhasavada]]
+* [[Svatantrya]]
+* [[Aham (Kashmir Shaivism)|Aham]]
+|list4title=  Practices
+|list4= 
+*[[Vibhuti]]
+*[[Rudraksha]]
+*[[Om Namah Shivaya|Panchakshara]]
+*[[Aegle marmelos#Religious significance|Bilva]]
+*[[Maha Shivaratri]] 
+*[[Yamas]]-[[Niyama]]s  
+*[[Guru]]-[[Lingam|Linga]]-[[Jangam]] 
+
+|list5title= Schools
+|list5=
+<hr>
+:'''Adi Margam'''
+*[[Pashupata Shaivism|Pashupata]]
+*[[Kalamukha]]
+*[[Kapalika]]  
+<hr>
+:'''[[Mantra marga|Mantra Margam]]''' 
+''Saiddhantika''
+*[[Shaiva Siddhanta|Siddhantism]]
+''Non - Saiddhantika'' 
+*[[Kashmir Shaivism]] 
+**[[Pratyabhijna]]
+**[[Vamachara|Vama]]
+**[[Dakshina]]
+**[[Kaula (Hinduism)|Kaula]]: [[Trika]]-[[Yamala]]-[[Kubjika]]-[[Netra Tantra|Netra]]
+<hr>
+:'''Others''' 
+*[[Nath]]
+**[[Inchegeri Sampradaya|Inchegeri]]
+*[[Veerashaiva]]/[[Lingayatism]]
+*[[Siddhar]]ism
+*[[Śrauta|Sroutaism]]
+*[[Aghori]]
+*[[Hinduism in Indonesia|Indonesian]]
+
+|list6title= Scholars
+|list6= 
+*[[Lakulisha]]
+*[[Abhinavagupta]]
+*[[Vasugupta]]
+*[[Utpaladeva]]
+*[[Nayanars]]
+*[[Meykandar]]
+*[[Dang Hyang Nirartha|Nirartha]]
+*[[Basava]]
+*[[Sharana (Hinduism)|Sharana]]
+*[[Shiva Advaita|Srikantha]]
+*[[Appayya Dikshita|Appayya]]
+*[[Navnath]]
+
+|list7title= Related
+|list7=
+*[[Nandi (bull)|Nandi]]
+*[[Tantra|Tantrism]]
+*[[Bhakti]]
+*[[Jyotirlinga]]
+*[[Template:Shiva temples|Shiva Temples]] 
+
+|belowstyle = background-color:#FFC569
+|below = {{portal-inline|Hinduism|size=tiny}}
+
+}}<noinclude>
+[[Category:Sidebar templates by topic|{{PAGENAME}}]]
+</noinclude>
