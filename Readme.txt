@@ -9,3 +9,4 @@
 #   target wikifile
 # Run main.py with enwiki.txt as input english article wikitext,  wikilinksmap.csv obtained using  wd query ( (example:https://w.wiki/3S6s), with modification for article name.  The output will be in tewiki.txt
 # This code is a placeholder for future improvements
+#
